@@ -1,2 +1,2 @@
-# Spri
-Game for Spri
+# S
+Game for S
